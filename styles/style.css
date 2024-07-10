@@ -72,3 +72,47 @@
     font-size: 20px;
     font-weight: 600px;
 }
+
+/* About section style */
+
+.about{
+    width: 950px;
+    margin: auto;
+}
+
+.about-title{
+    text-align: center;
+}
+
+.about-heading{
+    font-size: 35px;
+    font-weight: 900px;
+}
+
+.about-description{
+    font-size: 16px;
+}
+
+.layer-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin-top: 150px;
+    margin-bottom: ;
+    
+}
+
+.layer-des{
+    width: 480px;
+}
+
+.img-1{
+    width: 240px;
+}
+
+.about-btn{
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight: 600px;
+}
