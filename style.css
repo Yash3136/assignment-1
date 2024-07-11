@@ -78,7 +78,7 @@
 /* Banner section design*/
 
 .banner-part{
-    background-image: url(../assets/Hero-bg.png);
+    background-image: url(./assets/Hero-bg.png);
     height: 652px;
     
     
@@ -217,7 +217,7 @@
 /* support section style */
 
 .support{
-    background-image: url(../assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
   
     width: 1240px;
     height: 600px;
