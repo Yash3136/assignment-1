@@ -44,6 +44,12 @@
     font-weight: bold;
 }
 
+.btn-2{
+    border: none;
+    color: #0D1321;
+}
+
+
 
 /* navbar style */
 .navbar{
@@ -92,7 +98,7 @@
 
 .banner-description{
     font-size: 16px;
-    line-height: 26px;
+    line-height: 30px;
 }
 
 .banner-btn{
@@ -171,7 +177,7 @@
  
 .card-1{
     width: 364px;
-    
+    height: 500px;
     background-color: #ffdad998;
     padding: 40px ;
     margin-right: 20px;
@@ -181,7 +187,7 @@
 
 .card-2{
     width: 364px;
-    
+    height: 500px;
     background-color: #0066f452;
     padding: 40px ;
     margin-right: 20px;
@@ -208,7 +214,7 @@
 }
 
 
-
+/* support section style */
 
 .support{
     background-image: url(../assets/handshake.jpg);
@@ -253,7 +259,27 @@ input{
     font-weight: bold;
 }
 
+
 .text-color{
-    color: #ffffffc0;
+    color: #f0f0f7e0;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+
+
+/* footer section style */
+.footer-section{
+    display: flex;
+    justify-content: space-between;
+    width: 1240px;
+    margin: auto;
+    background-color: #ffdad960;
+    margin-bottom: 80px;
+    
+}
+
+.footer-margin{
+    margin-right: 20px;
 }
 
